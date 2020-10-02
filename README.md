@@ -1,6 +1,6 @@
 # linear-and-logistic-regression
 
-Predicting sex and height of people in R GaltonFamilies data set using Linear and Logistic regression.
+Using and comparing Linear and Logistic regression techniques with GaltonFamilies and MNIST data sets.
 
 1. 'linear regression for heights prediction.R' : Predicting height of the son based on the height of their father
 
