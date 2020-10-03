@@ -1,6 +1,6 @@
 # linear-and-logistic-regression
 
-Using and comparing Linear and Logistic regression techniques with GaltonFamilies and MNIST data sets.
+In this project there is use examples of many machine learning and statistical techniques for solving data science problems on different R data sets. There are also use examples of techniques such as cross validation, bootstraping, and statistical analysis. 
 
 1. 'bootstraping.R' : Practicing statistical bootstraping technique with random data
 
