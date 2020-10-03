@@ -14,5 +14,8 @@ Using and comparing Linear and Logistic regression techniques with GaltonFamilie
 
 6. 'logistic regression for sex prediction.R' : Predicting sex (male or female) based on the height of people
 
+7. 'naive bayes, qda and lda models.R' : Practicing with prediction models and statistical measures using the confusion matrix. Predicting sex based on height with naive bayes and comparing qda and lda predicting numbers (2 or 7) classification. 
 
-8. 'qda numbers predictor.R' : Using qda technique to make a numbers predictor using the minist data set.  
+8. 'qda numbers predictor.R' : Using qda technique to make a numbers predictor using the minist data set.
+
+9.
