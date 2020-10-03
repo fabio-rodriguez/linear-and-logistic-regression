@@ -18,4 +18,4 @@ Using and comparing Linear and Logistic regression techniques with GaltonFamilie
 
 8. 'qda numbers predictor.R' : Using qda technique to make a numbers predictor using the minist data set.
 
-9.
+9. 'knn, d-tree, r-tree and random-forest.R' : Using knn for prediction regions using the olive data set. Using the regression tree technique for predicting the margin in the polls_2008 data set, the cp is selected with cross validation. Comparing predictions from decision tree and random forest (with cross validation) models using the data in the mnist_27 data set.  
