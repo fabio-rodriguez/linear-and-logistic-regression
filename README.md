@@ -4,7 +4,7 @@ Using and comparing Linear and Logistic regression techniques with GaltonFamilie
 
 1. 'bootstraping.R' : Practicing statistical bootstraping technique with random data
 
-2. 'caret package.R' : Practicing with the caret package for predictions using Knn and loess techniques.
+2. 'caret package.R' : Practicing with the caret package for predictions using the mnist_27 data set and the knn and loess techniques.
 
 
 
