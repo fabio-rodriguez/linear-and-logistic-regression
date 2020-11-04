@@ -1,4 +1,4 @@
-# linear-and-logistic-regression
+# machine-learning-module
 
 In this project there is use examples of many machine learning and statistical techniques for solving data science problems on different R data sets. There are also use examples of techniques such as cross validation, bootstraping, and statistical analysis. 
 
